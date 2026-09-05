@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="BusquedaApi/BusquedaApi.csproj" Id="7c50ab12-43d8-4f8e-85df-8fa86626ac92" />
+  <Project Path="DataAccess/DataAccess.csproj" />
+  <Project Path="MotorBusqueda/MotorBusqueda.csproj" />
+  <Project Path="Repository/Repository.csproj" />
+  <Project Path="Services/Services.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@BusquedaApi_HostAddress = http://localhost:5031
+
+GET {{BusquedaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
